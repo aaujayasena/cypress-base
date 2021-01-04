@@ -1,0 +1,1 @@
+{"version":3,"file":"dom.js","sourceRoot":"","sources":["../../../src/ui/commands/dom.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;;GAiBG;AAEH,OAAO,EAAE,WAAW,EAAE,MAAM,UAAU,CAAC;AAEvC,iCAAiC;AAEjC;;;;;GAKG;AACH,OAAO,CAAC,QAAQ,CAAC,GAAG,CAAC,YAAY,EAAE,UAAC,KAAa;IAC7C,OAAO,EAAE,CAAC,GAAG,CAAC,WAAW,CAAC,iBAAiB,CAAC,KAAK,CAAC,CAAC,CAAC;AACxD,CAAC,CAAC,CAAC"}
