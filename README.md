@@ -1,4 +1,4 @@
-# WSO2 Identity Server - Cypress Test Base
+Cypress Test Base
 
 Commonly used commands, configs, utilities for cypress integration & end-to-end tests in WSO2 Identity Server front-end applications.
 
